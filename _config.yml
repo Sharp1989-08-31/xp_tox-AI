@@ -23,23 +23,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Pu Xia"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Birmingham, UK"
+  employer         : "University of Birmingham"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "p.xia@bham.ac.uk" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.birmingham.ac.uk/schools/biosciences/staff/profile?Name=dr-pu-xia&ReferenceId=204848"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=D41a8SkAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Pu-Xia-4?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
